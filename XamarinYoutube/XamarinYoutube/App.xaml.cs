@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using XamarinYoutube.Views;
 
 namespace XamarinYoutube
 {
@@ -10,7 +11,7 @@ namespace XamarinYoutube
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MoviesView());
         }
 
         protected override void OnStart()

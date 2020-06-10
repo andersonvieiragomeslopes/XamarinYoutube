@@ -5,8 +5,13 @@ Xamarin.Forms GoodLooking
 
 <img src="https://github.com/andersonvieiragomeslopes/XamarinYoutube/blob/master/PreviewImage.png" width="50%">
 
+Lag in my device , sorry :/
+
 <img src="https://github.com/andersonvieiragomeslopes/XamarinYoutube/blob/master/PreviewProject.gif" width="50%">
 
+## Download App
+
+- [Download] (https://github.com/andersonvieiragomeslopes/XamarinYoutube/blob/master/tech.equipevga.xamarinyoutube.apk)
 
 ## Features  
 

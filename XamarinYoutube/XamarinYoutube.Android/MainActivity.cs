@@ -6,6 +6,8 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using PanCardView.Droid;
+using FFImageLoading.Forms.Platform;
 
 namespace XamarinYoutube.Droid
 {
@@ -16,12 +18,14 @@ namespace XamarinYoutube.Droid
         {
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MjM0Mzc0QDMxMzgyZTMxMmUzMEJOM3BvcjY0SVM5MmdDMGs3dU42MFJsY2dUNzJ1ZzJKTmhTVFBEcHk4RjQ9");
 
             base.OnCreate(savedInstanceState);
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
-            //CardsViewRenderer.Preserve();
+            CachedImageRenderer.Init(enableFastRenderer: true);
+            CardsViewRenderer.Preserve();
             Window.AddFlags(WindowManagerFlags.Fullscreen);
             Window.AddFlags(WindowManagerFlags.KeepScreenOn);
             LoadApplication(new App());

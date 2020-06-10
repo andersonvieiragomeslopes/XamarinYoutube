@@ -13,6 +13,7 @@ namespace XamarinYoutube.ViewModels
         }
         public MoviesViewModel()
         {
+            Movies = new ObservableCollection<Movie>();
             LoadMovie();
         }
 

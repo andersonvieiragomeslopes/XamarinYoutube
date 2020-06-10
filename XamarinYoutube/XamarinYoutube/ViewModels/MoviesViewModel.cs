@@ -24,30 +24,30 @@ namespace XamarinYoutube.ViewModels
                 new Movie
                 {
                     Title="Tropa de Elite",
-                    Country = "",
+                    Country = "Brasil",
                     PosterPath = "https://duastorres.com.br/wp-content/uploads/2018/01/Iron-Man-2.jpg",
-                    Overview="",
-                    Runtime="",
-                    BackdropPath="",
-                    TheGenres= "",
+                    Overview="sdhsdfhsjkdfsdf",
+                    Runtime="60",
+                    BackdropPath="https://duastorres.com.br/wp-content/uploads/2018/01/Iron-Man-2.jpg",
+                    TheGenres= "Adulto, Romance, Terror",
                     IdMovie=1,
-                    ReleaseDate ="",
-                    Year="",
-                    YoutubeId=""
+                    ReleaseDate ="2019",
+                    Year="2019",
+                    YoutubeId="gdfgfg5"
                 },
                 new Movie
                 {
                     Title="Tropa de Elite",
-                    Country = "",
+                    Country = "Brasil",
                     PosterPath = "https://duastorres.com.br/wp-content/uploads/2018/01/Iron-Man-2.jpg",
-                    Overview="",
-                    Runtime="",
-                    BackdropPath="",
-                    TheGenres= "",
+                    Overview="sdhsdfhsjkdfsdf",
+                    Runtime="60",
+                    BackdropPath="https://duastorres.com.br/wp-content/uploads/2018/01/Iron-Man-2.jpg",
+                    TheGenres= "Adulto, Romance, Terror",
                     IdMovie=1,
-                    ReleaseDate ="",
-                    Year="",
-                    YoutubeId=""
+                    ReleaseDate ="2019",
+                    Year="2019",
+                    YoutubeId="gdfgfg5"
                 },
                 new Movie
                 {

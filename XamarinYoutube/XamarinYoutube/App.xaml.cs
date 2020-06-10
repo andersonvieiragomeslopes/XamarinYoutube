@@ -11,7 +11,7 @@ namespace XamarinYoutube
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MoviesView());
+            MainPage = new NavigationPage(new MovieDetailView());
         }
 
         protected override void OnStart()

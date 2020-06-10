@@ -39,7 +39,6 @@ namespace XamarinYoutube.Models
 
         private async void Open()
         {
-            vm = new MoviesDetailViewModel(this);
 
             await Application.Current.MainPage.Navigation.PushAsync(new MovieDetailView());
         }

@@ -18,7 +18,7 @@ namespace XamarinYoutube.Droid
         {
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MjM0Mzc0QDMxMzgyZTMxMmUzMEJOM3BvcjY0SVM5MmdDMGs3dU42MFJsY2dUNzJ1ZzJKTmhTVFBEcHk4RjQ9");
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("You App Key Syncfusion");
 
             base.OnCreate(savedInstanceState);
 

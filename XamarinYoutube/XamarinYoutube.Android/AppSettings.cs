@@ -14,6 +14,6 @@ namespace XamarinYoutube.Droid
 {
     public class AppSettings
     {
-        public const string DEVELOPER_KEY = "AIzaSyA-JSf9CU1cdMpgzROCCUpl4wOve9S94ZU";
+        public const string DEVELOPER_KEY = "You Key developer Youtube";
     }
 }

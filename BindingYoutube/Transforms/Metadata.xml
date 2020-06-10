@@ -1,0 +1,7 @@
+﻿<metadata>
+  <attr path="/api/package[@name='com.google.android.youtube.player']" name="managedName">Com.Google.Android.Youtube.Player</attr>
+
+  <remove-node path="/api/package[@name='com.google.android.youtube.player']/class[@name='YouTubePlayerView']/method[@name='onConfigurationChanged' and count(parameter)=1 and parameter[1][@type='android.content.res.Configuration']]" />
+  <remove-node path="/api/package[@name='com.google.android.youtube.player']/class[@name='YouTubeThumbnailView']/method[@name='finalize' and count(parameter)=0]" />
+  <!--YouTubeThumbnailView$OnInitializedListener -->
+</metadata>

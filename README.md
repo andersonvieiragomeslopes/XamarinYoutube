@@ -17,10 +17,11 @@ Lag in my device , sorry :/
 
 - Youtube Player
 - Xamarin Animation
+- [Xamarin Binding Library] (https://docs.microsoft.com/pt-br/xamarin/android/platform/binding-java-library/binding-a-jar)
+
 
 ## Tools used  
 
-- [Xamarin Binding] (https://docs.microsoft.com/pt-br/xamarin/android/platform/binding-java-library/binding-a-jar)
 - [Xamarin Dependency Service] (https://docs.microsoft.com/pt-br/xamarin/xamarin-forms/app-fundamentals/dependency-service)
 - [luberda-molinet/FFImageLoading](https://github.com/luberda-molinet/FFImageLoading)  
 - [AndreiMisiukevich/CardView](https://github.com/AndreiMisiukevich/CardView)
